@@ -1,1 +1,1 @@
-[User Manual](.pdf)
+[User Manual](team10-user-manual.pdf.pdf)
